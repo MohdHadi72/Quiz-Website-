@@ -19,7 +19,6 @@ if ($num == 1) {
 
     $_SESSION['username'] =  $name;
     header('location:paper.php');
-
 } else {
 
     header('location:login.php');

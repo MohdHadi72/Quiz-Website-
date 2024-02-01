@@ -21,3 +21,4 @@ if ($num == 1) {
     $qury = "INSERT INTO `signin` (`name`, `password`) VALUES ( '$name', '$password');";
     mysqli_query($con, $qury);
 }
+?>
