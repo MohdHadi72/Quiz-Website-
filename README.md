@@ -10,3 +10,8 @@ This is Quiz Website Imges For Seen ..👇
 <br>
 
 ![image](https://github.com/MohdHadi72/Quiz-Website-/assets/154020781/f763f00c-3343-4b7c-9a0e-0a0db40456fc)
+
+# Check Result 
+<br>
+
+![image](https://github.com/MohdHadi72/Quiz-Website-/assets/154020781/54904f0a-7343-4470-a056-4585c91c6128)
