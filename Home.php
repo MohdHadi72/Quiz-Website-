@@ -19,11 +19,9 @@ if ($num == 1) {
 
     $_SESSION['username'] =  $name;
     header('location:paper.php');
+
 } else {
-    echo "<div class='alert alert-warning alert-dismissible fade show' role='alert'>
-    <strong>Message!</strong> This Name Is Olready Write.
-    <button type='button' class='btn-close' data-bs-dismiss='alert' aria-label='Close'></button>
-  </div>";
 
     header('location:login.php');
 }
+?>
