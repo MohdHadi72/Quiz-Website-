@@ -14,4 +14,5 @@ This is Quiz Website Imges For Seen ..👇
 # Check Result 
 <br>
 
-![image](https://github.com/MohdHadi72/Quiz-Website-/assets/154020781/54904f0a-7343-4470-a056-4585c91c6128)
+![image](https://github.com/MohdHadi72/Quiz-Website-/assets/154020781/a08406ec-dd08-4f12-a648-bc4f5428d885)
+
